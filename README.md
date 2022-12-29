@@ -1,4 +1,4 @@
-# ThreeJS-Kenney
+# ThreeJS-First Approach
 
 - npm init vite@latest threejs-getting-started
 - npm install
